@@ -1,0 +1,15 @@
+Na gałęzi main
+Zmiany do złożenia:
+  (użyj „git restore --staged <plik>...”, aby wycofać)
+	usunięto:        GIT_4_status1.txt
+
+Zmiany nie przygotowane do złożenia:
+  (użyj „git add <plik>...”, żeby zmienić, co zostanie złożone)
+  (użyj „git restore <plik>...”, aby odrzucić zmiany w katalogu roboczym)
+	zmieniono:       GIT_4_status2.txt
+
+Nieśledzone pliki:
+  (użyj „git add <plik>...”, żeby uwzględnić, co zostanie złożone)
+	GIT_4_status3.txt
+	"usuni\304\231ty.txt"
+

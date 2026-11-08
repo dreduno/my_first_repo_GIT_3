@@ -6,3 +6,4 @@ Nieśledzone pliki:
 	"usuni\304\231ty.txt"
 
 nie dodano nic do złożenia, ale są nieśledzone pliki (użyj „git add”, aby śledzić)
+Hello world
