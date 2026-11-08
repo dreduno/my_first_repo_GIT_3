@@ -1,0 +1,127 @@
+commit 453a3d6a88ab9a0ecb8f3108a658817dd1bd1dab
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 16:02:43 2026 +0100
+
+    Koniec zadania GIT_8
+
+commit 8a00d6fb0a475152c2ceda84c1cb4c41f116301f
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 15:55:16 2026 +0100
+
+    Dodano plik cherry-pick
+
+commit 5972210ce0a400fc24f905cb0e6ae7fc21e2e56a
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 15:54:07 2026 +0100
+
+    Połączono commity oraz dodano plik rebase
+
+commit 15a8095a662e146881b5c7033451f3f985330d94
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 15:50:48 2026 +0100
+
+    GIT_8: stan repozytorium
+
+commit be6c29fd2aa411a3c490b2f84b13c3d2bc121f80
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 15:48:36 2026 +0100
+
+    Przywrócono zmiany ze stasha
+
+commit 49f5adcd2e3d2811cf1212ad95245ec6e5b32989
+Merge: aa05530 690b3d7
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 15:46:58 2026 +0100
+
+    Merge branch 'test'
+
+commit 690b3d78f5dc62d5ee932388e5ef34ed81d2d67a
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 15:46:41 2026 +0100
+
+    Dodano plik diff z róznicami między dwoma ostatnimi commitami
+
+commit d017eedb299f6e564bc626debc6bf625b749ddd3
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 15:45:11 2026 +0100
+
+    Dodano plik GIT_8_log.txt
+
+commit aa055307d8677c0ce356f4ed3eb0acaf33dd59af
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 15:44:06 2026 +0100
+
+    Dodano pliki branch i status i odłożono je do stashu {0}. Dodano plik stash_list
+
+commit 33353fb3a939b88180fec171218b1a4d44343af3
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 15:16:31 2026 +0100
+
+    Dodano plik z historią gałęzi (GIT_7)
+
+commit 6221945ab6cbf3fcc47dd8258b827851fe28405d
+Merge: c09b6fe eb1dc62
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 15:15:14 2026 +0100
+
+    Naprawiono konflikt w pliku README.md
+
+commit eb1dc62e8d92c11092b4085d500040901a2558ba
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 15:09:51 2026 +0100
+
+    Dodano konfliktową wersję README.md na gałęzi test
+
+commit c09b6fe0d8c5369a0531a762514ae1a5694811d1
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 15:08:28 2026 +0100
+
+    wpis na końcu README.md
+
+commit b330f30b7705d12d71ec01baf379490034ad49d3
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 15:04:33 2026 +0100
+
+    Dodano gałąź test wraz z plikami status, log oraz listą zawartości katalogu
+
+commit 51c8714711f0a9f85fa5df69c5fececed07b841e
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 13:43:27 2026 +0100
+
+    Dodano pliki z wynikami poleceń git log, git log --oneline oraz git show
+
+commit a7de8c2a3a3e8d861ff7363fa3317861370ccb0e
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 12:59:28 2026 +0100
+
+    Dodano rozszyfrowanie logu z zadania GIT_5 jako GIT_5_diff.txt
+
+commit 25dfab293fa1bce7ab9a869a641912d6bd93e3fb
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 12:09:09 2026 +0100
+
+    Dodano plik README
+
+commit 7fd0026421163c01327c598ef2aa2dabd560f271
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 12:01:55 2026 +0100
+
+    pliki GIT_4_status po usunięciu przywróceniu plików
+
+commit d51965bdd67ca5df9a35852a635d992263ac4bdd
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 11:57:08 2026 +0100
+
+    Dodano pliki GIT_status
+
+commit 5fe25ed7c57ada8c04bd6189c7e61264ef75988c
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 11:54:29 2026 +0100
+
+    Dodano wersję GIT oraz pomysł z zadania GIT_1
+
+commit 328b4b8942d9c1847bea9616da213bc310231d27
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 11:47:09 2026 +0100
+
+    Dodano plik nowy_plik.txt. Usunięto plik usunięty.txt
