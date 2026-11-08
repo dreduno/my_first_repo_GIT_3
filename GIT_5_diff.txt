@@ -1,0 +1,22 @@
+Rozszyfrowanie git diff z zadania GIT_5
+
+drugi_plik.txt - jest nowym plikiem utworzonym między drugim a trzecim commitem
+
+   - "new file mode" oraz "--- /dev/null" -  pliku nie bylo w pierwszym commicie, zostal dodany.
+   - "@@ -0,0 +1,2 @@" - przed zmiana zero linii, po zmianie dodano dwie linie.
+   - Dodano tekst  "Lorem ipsum" oraz jedną pustą linię.
+
+
+nowy_plik.txt - został zmodyfikowany
+
+   - Plik istnial wczesniej (brak "new file mode").
+   - "@@ -0,0 +1 @@" - przed zmiana zero linii, po zmianie dodano jedną linię
+   - Nowa linia to tekst "hello world".
+
+Podsumowanie: diff pokazuje laczny efekt trzech commitow 
+
+1. utworzenie nowy_plik.txt
+
+2. modyfikacja nowy_plik.txt
+
+3. utworzenie drugi_plik.txt
