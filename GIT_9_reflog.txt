@@ -1,0 +1,40 @@
+b2f3261 HEAD@{0}: commit: W trakcie resetu
+453a3d6 HEAD@{1}: reset: moving to HEAD~1
+8e704c5 HEAD@{2}: commit: GIT_9: historia przed resetem
+453a3d6 HEAD@{3}: commit: Koniec zadania GIT_8
+8a00d6f HEAD@{4}: reset: moving to 8a00d6fb0a475152c2ceda84c1cb4c41f116301f
+8a00d6f HEAD@{5}: rebase (finish): returning to refs/heads/main
+8a00d6f HEAD@{6}: commit: Dodano plik cherry-pick
+5972210 HEAD@{7}: commit: Połączono commity oraz dodano plik rebase
+15a8095 HEAD@{8}: rebase (start): checkout HEAD~2
+0dfed2a HEAD@{9}: commit: GIT_8: uzupełnienie
+15a8095 HEAD@{10}: commit: GIT_8: stan repozytorium
+be6c29f HEAD@{11}: commit: Przywrócono zmiany ze stasha
+49f5adc HEAD@{12}: reset: moving to HEAD
+49f5adc HEAD@{13}: merge test: Merge made by the 'ort' strategy.
+aa05530 HEAD@{14}: checkout: moving from test to main
+690b3d7 HEAD@{15}: commit: Dodano plik diff z róznicami między dwoma ostatnimi commitami
+d017eed HEAD@{16}: commit: Dodano plik GIT_8_log.txt
+eb1dc62 HEAD@{17}: checkout: moving from main to test
+aa05530 HEAD@{18}: commit: Dodano pliki branch i status i odłożono je do stashu {0}. Dodano plik stash_list
+33353fb HEAD@{19}: reset: moving to HEAD
+33353fb HEAD@{20}: commit: Dodano plik z historią gałęzi (GIT_7)
+6221945 HEAD@{21}: commit (merge): Naprawiono konflikt w pliku README.md
+c09b6fe HEAD@{22}: checkout: moving from test to main
+eb1dc62 HEAD@{23}: commit: Dodano konfliktową wersję README.md na gałęzi test
+b330f30 HEAD@{24}: checkout: moving from main to test
+c09b6fe HEAD@{25}: commit: wpis na końcu README.md
+51c8714 HEAD@{26}: checkout: moving from test to main
+b330f30 HEAD@{27}: checkout: moving from main to test
+51c8714 HEAD@{28}: checkout: moving from test to main
+b330f30 HEAD@{29}: commit: Dodano gałąź test wraz z plikami status, log oraz listą zawartości katalogu
+51c8714 HEAD@{30}: checkout: moving from main to test
+51c8714 HEAD@{31}: checkout: moving from test to main
+51c8714 HEAD@{32}: checkout: moving from main to test
+51c8714 HEAD@{33}: commit: Dodano pliki z wynikami poleceń git log, git log --oneline oraz git show
+a7de8c2 HEAD@{34}: commit: Dodano rozszyfrowanie logu z zadania GIT_5 jako GIT_5_diff.txt
+25dfab2 HEAD@{35}: commit: Dodano plik README
+7fd0026 HEAD@{36}: commit: pliki GIT_4_status po usunięciu przywróceniu plików
+d51965b HEAD@{37}: commit: Dodano pliki GIT_status
+5fe25ed HEAD@{38}: commit: Dodano wersję GIT oraz pomysł z zadania GIT_1
+328b4b8 HEAD@{39}: commit (initial): Dodano plik nowy_plik.txt. Usunięto plik usunięty.txt
