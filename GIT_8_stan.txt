@@ -4,3 +4,4 @@ Nieśledzone pliki:
 	GIT_8_stan.txt
 
 nie dodano nic do złożenia, ale są nieśledzone pliki (użyj „git add”, aby śledzić)
+Uzupełnienie stanu
