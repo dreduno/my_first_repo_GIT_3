@@ -1,0 +1,1 @@
+stash@{0}: WIP on main: 33353fb Dodano plik z historią gałęzi (GIT_7)
