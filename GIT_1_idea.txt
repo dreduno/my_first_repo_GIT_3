@@ -1,0 +1,44 @@
+Przykład zastosowania systemu kontroli wersji
+=============================================
+ 
+Tytuł: Wersjonowanie analizy biofilmu bakteryjnego (pomiar białka metodą Micro BCA)
+ 
+Problem:
+
+Analiza wyników pomiaru białka w biofilmie bakteryjnym przebiega w kilku krokach:
+
+odczyt absorbancji z czytnika płytek, wyznaczenie krzywej wzorcowej BSA,
+przeliczenie absorbancji na stężenie białka, testy statystyczne i wykresy.
+Każdy krok to osobny skrypt (bash do przygotowania plików, R do obliczeń
+i wykresów). Skrypty są wielokrotnie poprawiane, np. po zmianie zakresu
+krzywej wzorcowej, sposobu odejmowania tła albo testu statystycznego.
+Bez kontroli wersji powstają pliki typu "analiza_v2_final_POPRAWIONA.R"
+i po kilku tygodniach nie wiadomo, którą wersją policzono wyniki
+w raporcie lub publikacji.
+ 
+Repozytorium jako rozwiązanie:
+
+- skrypty analizy (bash, R),
+- pliki konfiguracyjne (np. układ płytki, stężenia wzorców BSA),
+- plik README z opisem kroków analizy i wymaganych pakietów,
+ 
+Surowe dane z czytnika są przechowywane osobno na dysku, a w repozytorium
+zapisywana jest tylko ich lokalizacja, aby można było
+sprawdzić, że analizę wykonano na tych samych danych.
+ 
+- Nowe pomysły testuję na osobnym branchu, (np. inny rodzaj krzywej kalibracyjnej),
+  bez psucia działającej wersji na main.
+  Jeśli pomysł się sprawdzi -> Merge.
+- Wersję skryptów użytą do wyników w raporcie z tagiem,
+  np. "raport-2026-11", aby zawsze móc do niej wrócić.
+
+- Repozytorium jest wysłane na GitHub, więc stanowi kopię zapasową
+  i może być udostępnione współpracownikom.
+ 
+Korzyści:
+
+- Odtwarzalność - wiadomo, którą wersją skryptu policzono konkretne wyniki.
+- Historia zmian - co, kiedy i dlaczego zostało zmienione.
+- Bezpieczeństwo - można wrócić do wcześniejszej, działającej wersji.
+- Kilka osób może pracować nad analizą równolegle i łączyć pracę
+ 
