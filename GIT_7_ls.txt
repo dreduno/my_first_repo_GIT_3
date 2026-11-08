@@ -1,0 +1,16 @@
+total 48
+-rw-rw-r-- 1 vboxuser vboxuser 1969 Nov  8 11:51 GIT_1_idea.txt
+-rw-rw-r-- 1 vboxuser vboxuser   19 Nov  8 11:51 GIT_2_version.txt
+-rw-rw-r-- 1 vboxuser vboxuser  483 Nov  8 12:01 GIT_4_restore.txt
+-rw-rw-r-- 1 vboxuser vboxuser  251 Nov  8 12:00 GIT_4_status1.txt
+-rw-rw-r-- 1 vboxuser vboxuser  282 Nov  8 11:58 GIT_4_status2.txt
+-rw-rw-r-- 1 vboxuser vboxuser  507 Nov  8 11:59 GIT_4_status3.txt
+-rw-rw-r-- 1 vboxuser vboxuser  721 Nov  8 12:58 GIT_5_diff.txt
+-rw-rw-r-- 1 vboxuser vboxuser 1086 Nov  8 13:41 GIT_6_log.txt
+-rw-rw-r-- 1 vboxuser vboxuser  313 Nov  8 13:42 GIT_6_oneline.txt
+-rw-rw-r-- 1 vboxuser vboxuser 1084 Nov  8 13:42 GIT_6_show.txt
+-rw-rw-r-- 1 vboxuser vboxuser    0 Nov  8 15:00 GIT_7_ls.txt
+-rw-rw-r-- 1 vboxuser vboxuser  158 Nov  8 12:08 README.md
+-rw-rw-r-- 1 vboxuser vboxuser    0 Nov  8 11:30 drugi_plik.txt
+-rw-rw-r-- 1 vboxuser vboxuser   12 Nov  8 11:17 nowy_plik.txt
+-rw-rw-r-- 1 vboxuser vboxuser    0 Nov  8 11:33 usunięty.txt

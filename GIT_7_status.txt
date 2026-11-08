@@ -1,0 +1,7 @@
+Na gałęzi test
+Nieśledzone pliki:
+  (użyj „git add <plik>...”, żeby uwzględnić, co zostanie złożone)
+	GIT_7_ls.txt
+	GIT_7_status.txt
+
+nie dodano nic do złożenia, ale są nieśledzone pliki (użyj „git add”, aby śledzić)

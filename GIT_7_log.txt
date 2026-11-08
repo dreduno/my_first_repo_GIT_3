@@ -1,0 +1,41 @@
+commit 51c8714711f0a9f85fa5df69c5fececed07b841e
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 13:43:27 2026 +0100
+
+    Dodano pliki z wynikami poleceń git log, git log --oneline oraz git show
+
+commit a7de8c2a3a3e8d861ff7363fa3317861370ccb0e
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 12:59:28 2026 +0100
+
+    Dodano rozszyfrowanie logu z zadania GIT_5 jako GIT_5_diff.txt
+
+commit 25dfab293fa1bce7ab9a869a641912d6bd93e3fb
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 12:09:09 2026 +0100
+
+    Dodano plik README
+
+commit 7fd0026421163c01327c598ef2aa2dabd560f271
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 12:01:55 2026 +0100
+
+    pliki GIT_4_status po usunięciu przywróceniu plików
+
+commit d51965bdd67ca5df9a35852a635d992263ac4bdd
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 11:57:08 2026 +0100
+
+    Dodano pliki GIT_status
+
+commit 5fe25ed7c57ada8c04bd6189c7e61264ef75988c
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 11:54:29 2026 +0100
+
+    Dodano wersję GIT oraz pomysł z zadania GIT_1
+
+commit 328b4b8942d9c1847bea9616da213bc310231d27
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 11:47:09 2026 +0100
+
+    Dodano plik nowy_plik.txt. Usunięto plik usunięty.txt
