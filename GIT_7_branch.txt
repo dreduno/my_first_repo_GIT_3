@@ -1,0 +1,13 @@
+*   6221945 Naprawiono konflikt w pliku README.md
+|\  
+| * eb1dc62 Dodano konfliktową wersję README.md na gałęzi test
+| * b330f30 Dodano gałąź test wraz z plikami status, log oraz listą zawartości katalogu
+* | c09b6fe wpis na końcu README.md
+|/  
+* 51c8714 Dodano pliki z wynikami poleceń git log, git log --oneline oraz git show
+* a7de8c2 Dodano rozszyfrowanie logu z zadania GIT_5 jako GIT_5_diff.txt
+* 25dfab2 Dodano plik README
+* 7fd0026 pliki GIT_4_status po usunięciu przywróceniu plików
+* d51965b Dodano pliki GIT_status
+* 5fe25ed Dodano wersję GIT oraz pomysł z zadania GIT_1
+* 328b4b8 Dodano plik nowy_plik.txt. Usunięto plik usunięty.txt

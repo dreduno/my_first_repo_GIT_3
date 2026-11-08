@@ -1,0 +1,11 @@
+#System kontroli wersji# **edycja 7**
+
+**Nazwa repozytorium:** `my_firtst_repo_GIT_3`
+**Imię i nazwisko:** *Leon Petruńko*
+**Numer scłuchacza:** *pd5609*
+
+<<<<<<< HEAD
+Praca z gałęziami i rozwiązywanie konfliktów.
+=======
+Tym wpisem chcemy spowodować konflikt
+>>>>>>> test
