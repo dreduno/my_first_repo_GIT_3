@@ -1,0 +1,7 @@
+Na gałęzi main
+Nieśledzone pliki:
+  (użyj „git add <plik>...”, żeby uwzględnić, co zostanie złożone)
+	GIT_4_status1.txt
+	"usuni\304\231ty.txt"
+
+nie dodano nic do złożenia, ale są nieśledzone pliki (użyj „git add”, aby śledzić)
