@@ -1,0 +1,34 @@
+commit a7de8c2a3a3e8d861ff7363fa3317861370ccb0e
+Author: dreduno <leon.wasilkowski@gmail.com>
+Date:   Sun Nov 8 12:59:28 2026 +0100
+
+    Dodano rozszyfrowanie logu z zadania GIT_5 jako GIT_5_diff.txt
+
+diff --git a/GIT_5_diff.txt b/GIT_5_diff.txt
+new file mode 100644
+index 0000000..a1c86ed
+--- /dev/null
++++ b/GIT_5_diff.txt
+@@ -0,0 +1,22 @@
++Rozszyfrowanie git diff z zadania GIT_5
++
++drugi_plik.txt - jest nowym plikiem utworzonym między drugim a trzecim commitem
++
++   - "new file mode" oraz "--- /dev/null" -  pliku nie bylo w pierwszym commicie, zostal dodany.
++   - "@@ -0,0 +1,2 @@" - przed zmiana zero linii, po zmianie dodano dwie linie.
++   - Dodano tekst  "Lorem ipsum" oraz jedną pustą linię.
++
++
++nowy_plik.txt - został zmodyfikowany
++
++   - Plik istnial wczesniej (brak "new file mode").
++   - "@@ -0,0 +1 @@" - przed zmiana zero linii, po zmianie dodano jedną linię
++   - Nowa linia to tekst "hello world".
++
++Podsumowanie: diff pokazuje laczny efekt trzech commitow 
++
++1. utworzenie nowy_plik.txt
++
++2. modyfikacja nowy_plik.txt
++
++3. utworzenie drugi_plik.txt

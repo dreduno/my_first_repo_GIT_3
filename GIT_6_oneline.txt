@@ -1,0 +1,6 @@
+a7de8c2 Dodano rozszyfrowanie logu z zadania GIT_5 jako GIT_5_diff.txt
+25dfab2 Dodano plik README
+7fd0026 pliki GIT_4_status po usunięciu przywróceniu plików
+d51965b Dodano pliki GIT_status
+5fe25ed Dodano wersję GIT oraz pomysł z zadania GIT_1
+328b4b8 Dodano plik nowy_plik.txt. Usunięto plik usunięty.txt
