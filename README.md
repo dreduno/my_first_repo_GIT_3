@@ -4,3 +4,4 @@
 **Imię i nazwisko:** *Leon Petruńko*
 **Numer scłuchacza:** *pd5609*
 
+Tym wpisem chcemy spowodować konflikt
