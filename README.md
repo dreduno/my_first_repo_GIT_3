@@ -6,3 +6,8 @@
 
 **Numer scłuchacza:** *pd5609*
 
+**Data:** *09.11.2026*
+
+**Godzina:** *09.11.2026*
+
+`git init`
